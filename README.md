@@ -21,6 +21,7 @@ Here is the directory structure of our repository:
 ```
 ├─main.py  # entry_point
 ├─mytrainer.py  # top-p + CodeT5
+├─dataset  # the train/val/test data
 ├─metrics
 │   ├─myrouge.py  # wrapper of rouge metric
 │   ├─ranking.py  # maximal marginal ranking
