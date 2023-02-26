@@ -6,6 +6,9 @@ M3NSCT5 is a hybrid method combining the Maximal Marginal Multiple Nucleus Sampl
 
 ![framework](./figs/framework.png)
 
+### Update🐇
+- (Feb 26, 2023) Due to bandwidth limitation, the datasets included in this repo are currently not accessible. Therefore, we publish the data to [Zenodo](https://zenodo.org/record/7022467#.Y_txzptByHs).
+
 ### Environment
 Before you run the code, make sure you have prepared the necessary environment:
 ```
