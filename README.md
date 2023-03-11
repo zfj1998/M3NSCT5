@@ -1,6 +1,6 @@
 # M3NSCT5
-The code base for our paper （submitted to Journal of Systems and Software）
-"**[Diverse Title Generation for Stack Overflow Posts with Multiple Sampling Enhanced Transformer](https://arxiv.org/abs/2208.11523)**"
+The code base for our paper （accepted by the Journal of Systems and Software）
+"**[Diverse Title Generation for Stack Overflow Posts with Multiple-Sampling-Enhanced Transformer](https://doi.org/10.1016/j.jss.2023.111672)**"
 
 M3NSCT5 is a hybrid method combining the Maximal Marginal Multiple Nucleus Sampling strategy and the CodeT5 model, which is proposed to tackle the ambiguity issue when generating Stack Overflow post titles from code snippets.
 
@@ -38,13 +38,15 @@ Here is the directory structure of our repository:
 #### Citation
 If you find this work inspiring for your research, please cite our paper:
 ```
-@misc{https://doi.org/10.48550/arxiv.2208.11523,
-  doi = {10.48550/ARXIV.2208.11523},
-  url = {https://arxiv.org/abs/2208.11523},
-  author = {Zhang, Fengji and Liu, Jin and Wan, Yao and Yu, Xiao and Liu, Xiao and Keung, Jacky},
-  title = {Diverse Title Generation for Stack Overflow Posts with Multiple Sampling Enhanced Transformer},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {arXiv.org perpetual, non-exclusive license}
+@article{ZHANG2023111672,
+title = {Diverse title generation for Stack Overflow posts with multiple-sampling-enhanced transformer},
+journal = {Journal of Systems and Software},
+volume = {200},
+pages = {111672},
+year = {2023},
+issn = {0164-1212},
+doi = {https://doi.org/10.1016/j.jss.2023.111672},
+url = {https://www.sciencedirect.com/science/article/pii/S0164121223000675},
+author = {Fengji Zhang and Jin Liu and Yao Wan and Xiao Yu and Xiao Liu and Jacky Keung},
 }
 ```
